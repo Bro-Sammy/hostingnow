@@ -43,7 +43,7 @@
 
 .text{
     background-color: rgba(14, 13, 13, 0.589);
-    width: inherit;
+    /* width: inherit; */
     padding: 5% 4%;
     margin: 5% 10%;
     text-align: center;
@@ -64,6 +64,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 1px;
     text-align: center;
+    overflow: hidden;
 }
 
 .btn{
