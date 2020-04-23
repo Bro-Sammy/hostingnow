@@ -43,9 +43,9 @@
 
 .text{
     background-color: rgba(14, 13, 13, 0.589);
-    width: 30rem;
+    width: inherit;
     padding: 5% 4%;
-    margin: 5% auto;
+    margin: 5% 10%;
     text-align: center;
     border-bottom-right-radius: 50px;
     border-top: 1px solid white;
