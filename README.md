@@ -1,2 +1,2 @@
 ### This is our first lession on web development
-### with the lscodeschool team    
+### with the lscodeschool students
