@@ -43,7 +43,7 @@
 
 .text{
     background-color: rgba(14, 13, 13, 0.589);
-    /* width: inherit; */
+    min-width: inherit;
     padding: 5% 4%;
     margin: 5% 10%;
     text-align: center;
